@@ -2,8 +2,11 @@
 ### 📘 Assignment – File Handling, Exception Handling, Logging, and Memory Management  
 
 ✅ Author
+
 Name: **Maheshwari Sanjay Shinde**
+
 Course: PW Skills - **Data Analytics** Program – Python Module 
+
 **Assignment: A05 – File, Exception & Memory Management**
 ---
 
